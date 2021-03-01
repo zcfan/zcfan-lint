@@ -35,9 +35,7 @@
     "read-pkg-up": "^7.0.1",
     "rimraf": "^3.0.2",
     "which": "^2.0.2",
-    "yargs-parser": "^20.2.6"
-  },
-  "devDependencies": {
+    "yargs-parser": "^20.2.6",
     "eslint-plugin-import": "^2.22.1",
     "eslint-plugin-jsx-a11y": "^6.4.1",
     "eslint-plugin-react": "^7.21.5",
