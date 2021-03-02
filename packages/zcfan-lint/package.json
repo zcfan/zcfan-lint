@@ -8,13 +8,12 @@
   "bin": {
     "zcfan-lint": "src/lint.js"
   },
-  "main": "lib/zcfan-lint.js",
+  "main": "src/zcfan-lint.js",
   "directories": {
-    "lib": "lib",
+    "src": "src",
     "test": "__tests__"
   },
   "files": [
-    "lib",
     "src"
   ],
   "publishConfig": {
